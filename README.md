@@ -1,7 +1,7 @@
 # misinformation-project
 READ ME
 
-DATE CREATED: August 18, 2022
+LAST UPDATE README: August 18, 2022
 
 PROJECT: Attacking Misinformation from the Demand Side: A Field Experiment on Critical Thinking. 
 
