@@ -3,7 +3,6 @@ READ ME
 DATE CREATED: August 18, 2022
 PROJECT: Attacking Misinformation from the Demand Side: A Field Experiment on Critical Thinking. 
 
-Raw Data: Is in NocoDB: https://dip.datasketch.co/dashboard/#/projects
 Data, literature, output, presentations: “dip” Dropbox folder 
 Code: “misinformation-project” repository in GitHub
 Draft: Max needs to ask Julia for permission 
