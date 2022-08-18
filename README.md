@@ -1,7 +1,10 @@
 # misinformation-project
 READ ME
+
 DATE CREATED: August 18, 2022
+
 PROJECT: Attacking Misinformation from the Demand Side: A Field Experiment on Critical Thinking. 
+
 
 Data, literature, output, presentations: “dip” Dropbox folder 
 Code: “misinformation-project” repository in GitHub
