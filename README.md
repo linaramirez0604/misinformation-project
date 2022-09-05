@@ -25,7 +25,7 @@ The previous step has to be done only once.
 Every time you want to open your jupyter notebook  you need to run in the terminal: 
 
 conda activate myenv
-cd /Users/bfiuser/Documents/GitHub/misinformation-project
+cd /Users/linaramirez/Documents/GitHub/misinformation-project
 jupyter-lab
 
 *Replace cd to where you have the jupyter notebooks. 
